@@ -74,7 +74,6 @@ my-network
 ├── frontend
 ├── node_modules
 ├── .gitignore
-├── netlify.toml
 ├── package.json
 ├── README.md
 ```
